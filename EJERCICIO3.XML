@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="EJERCICIO3.XSL" type="text/xsl"?>
 <cv>
-    <fotografia>"RUTA"</fotografia>
+    <fotografia>foto-CV.png</fotografia>
     <nombre>Daniel Belenguer Fernández</nombre>
-    <informacion-sobre-mi>LOQUESEA</informacion-sobre-mi>
+    <informacion-sobre-mi>Si estás interesado en el desarrollo de cualquier 
+        aplicación para dispositivos móviles o web puedes contactar conmigo, ya seas una empresa o profesional. Seguro que juntos 
+        podremos poner en marcha el proyecto que tienes en mente.
+    </informacion-sobre-mi>
     <conocimientos>
         <conocimiento>
             <nombre-tecnologia>HTML</nombre-tecnologia>
@@ -23,16 +26,31 @@
         </conocimiento>
     </conocimientos>
     <experiencias>
-        <puesto>Técnico informático</puesto>
-        <empresa>Proser Informática</empresa>
-        <periodo>01/04/2023 - 31/07/2023</periodo>
-        <detallepuesto>Resolucion de incidencias de clientes en el area de TPV</detallepuesto>
+        <experiencia>
+            <puesto>Técnico informático</puesto>
+            <empresa>Proser Informática</empresa>
+            <periodo>01/04/2023 - 31/07/2023</periodo>
+            <detallepuesto>Resolucion de incidencias de clientes en el area de TPV</detallepuesto>
+        </experiencia>
+        <experiencia>
+            <puesto>Programador web</puesto>
+            <empresa>Soluciones informaticas</empresa>
+            <periodo>2024 - Actualmente</periodo>
+            <detallepuesto>Haciamos los logins de los usuarios de la web.</detallepuesto>
+        </experiencia>
     </experiencias>
-    <formacion>
-        <institucion>Sistemas micro-informáticos y redes</institucion>
-        <grado-curso>Grado medio</grado-curso>
-        <fecha>2023</fecha>
-    </formacion>
+    <formaciones>
+        <formacion>
+            <institucion>IES Angel Corella</institucion>
+            <grado-curso>Sistemas micro-informáticos y redes</grado-curso>
+            <fecha>2023</fecha>
+        </formacion>
+        <formacion>
+            <institucion>IES Angel Corella</institucion>
+            <grado-curso>Diseño de aplicaciones web</grado-curso>
+            <fecha>2025</fecha>
+        </formacion>
+    </formaciones>
     <contacto>
         <email>danielbelenguerfernandez@gmail.com</email>
         <socialmedia>
