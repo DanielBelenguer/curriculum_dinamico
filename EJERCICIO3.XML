@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="EJERCICIO3.XSL" type="text/xsl"?>
+<cv>
+    <fotografia>"RUTA"</fotografia>
+    <nombre>Daniel Belenguer Fernández</nombre>
+    <informacion-sobre-mi>LOQUESEA</informacion-sobre-mi>
+    <conocimientos>
+        <conocimiento>
+            <nombre-tecnologia>HTML</nombre-tecnologia>
+            <grado-tecnologia>90</grado-tecnologia>
+        </conocimiento>
+        <conocimiento>
+            <nombre-tecnologia>CSS</nombre-tecnologia>
+            <grado-tecnologia>70</grado-tecnologia>    
+        </conocimiento>
+        <conocimiento>
+            <nombre-tecnologia>XML</nombre-tecnologia>
+            <grado-tecnologia>80</grado-tecnologia>    
+        </conocimiento>
+        <conocimiento>
+            <nombre-tecnologia>GIT</nombre-tecnologia>
+            <grado-tecnologia>65</grado-tecnologia>
+        </conocimiento>
+    </conocimientos>
+    <experiencias>
+        <puesto>Técnico informático</puesto>
+        <empresa>Proser Informática</empresa>
+        <periodo>01/04/2023 - 31/07/2023</periodo>
+        <detallepuesto>Resolucion de incidencias de clientes en el area de TPV</detallepuesto>
+    </experiencias>
+    <formacion>
+        <institucion>Sistemas micro-informáticos y redes</institucion>
+        <grado-curso>Grado medio</grado-curso>
+        <fecha>2023</fecha>
+    </formacion>
+    <contacto>
+        <email>danielbelenguerfernandez@gmail.com</email>
+        <socialmedia>
+            <iconoredsocial></iconoredsocial>
+            <enlaceredsocial></enlaceredsocial>
+        </socialmedia>
+    </contacto>
+</cv>
