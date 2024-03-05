@@ -3,8 +3,9 @@
 <cv>
     <fotografia>foto-CV.png</fotografia>
     <nombre>Daniel Belenguer Fernández</nombre>
-    <informacion-sobre-mi>Si estás interesado en el desarrollo de cualquier 
-        aplicación para dispositivos móviles o web puedes contactar conmigo, ya seas una empresa o profesional. Seguro que juntos 
+    <informacion-sobre-mi>Si estás interesado en el desarrollo de cualquier
+        aplicación para dispositivos móviles o web puedes contactar conmigo, ya seas una empresa o
+        profesional. Seguro que juntos
         podremos poner en marcha el proyecto que tienes en mente.
     </informacion-sobre-mi>
     <conocimientos>
@@ -14,11 +15,11 @@
         </conocimiento>
         <conocimiento>
             <nombre-tecnologia>CSS</nombre-tecnologia>
-            <grado-tecnologia>70</grado-tecnologia>    
+            <grado-tecnologia>70</grado-tecnologia>
         </conocimiento>
         <conocimiento>
             <nombre-tecnologia>XML</nombre-tecnologia>
-            <grado-tecnologia>80</grado-tecnologia>    
+            <grado-tecnologia>80</grado-tecnologia>
         </conocimiento>
         <conocimiento>
             <nombre-tecnologia>GIT</nombre-tecnologia>
@@ -54,8 +55,31 @@
     <contacto>
         <email>danielbelenguerfernandez@gmail.com</email>
         <socialmedia>
-            <iconoredsocial></iconoredsocial>
-            <enlaceredsocial></enlaceredsocial>
+            <red>
+                <iconoredsocial>/imagenes/redes/icon-correo.png</iconoredsocial>
+                <enlaceredsocial>https://www.gmail.com</enlaceredsocial>
+            </red>
+            <red>
+                <iconoredsocial>/imagenes/redes/icon-google.png</iconoredsocial>
+                <enlaceredsocial>https://www.google.es</enlaceredsocial>
+            </red>
+            <red>
+                <iconoredsocial>/imagenes/redes/icon-linckedin.png</iconoredsocial>
+                <enlaceredsocial>https://www.linkedin.com/</enlaceredsocial>
+            </red>
+            <red>
+                <iconoredsocial>/imagenes/redes/icon-twitter.png</iconoredsocial>
+                <enlaceredsocial>https://twitter.com/</enlaceredsocial>
+            </red>
+            <red>
+                <iconoredsocial>/imagenes/redes/icon-face.png</iconoredsocial>
+                <enlaceredsocial>https://www.facebook.com/</enlaceredsocial>
+            </red>
+            <red>
+                <iconoredsocial>/imagenes/redes/icon-face.png</iconoredsocial>
+                <enlaceredsocial>https://www.facebook.com/</enlaceredsocial>
+            </red>
+
         </socialmedia>
     </contacto>
 </cv>
