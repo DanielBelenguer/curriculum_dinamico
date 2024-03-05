@@ -99,69 +99,46 @@
                             </xsl:for-each>
                         </ul>
                     </div>
-                    <div class="formation2">
-                        <ul>
-                            <xsl:for-each select="formaciones/formacion">
-                                <h4>
-                                    <strong>
-                                        <xsl:value-of select="grado-curso" />
-                                    </strong>
-                                </h4>
-                            <span
-                                    class="site">
-                                    <xsl:value-of select="institucion" />
-                                </span>
-                            <span
-                                    class="date">
-                                    <xsl:value-of select="fecha" />
-                                </span>
-                            </xsl:for-each>
-                        </ul>
-                    </div>
                 </div>
-
                 <!-- Social Media -->
                 <div class="grid_8 socialmedia fadeInUp">
                     <img class="icon" src="imagenes/icon-formacion.png" alt="sobre mí" />
                     <h3>Social Media - Contactar</h3>
                     <div>
-                        <a href="mailto:alojamientostenerife@gmail.com">
-                            <img class="social" src="imagenes/icon-correo.png" alt="Email" />
+                        <a href="mailto:prueba@prueba.prueba">
+                            <img class="social" src="imagenes/redes/icon-correo.png" alt="Email" />
                         </a>
                         <a href="#">
-                            <img class="social" src="imagenes/icon-google.png" alt="Google+" />
+                            <img class="social" src="imagenes/redes/icon-google.png" alt="Google+" />
                         </a>
                         <a href="#">
-                            <img class="social" src="imagenes/icon-linckedin.png" alt="LinkedIn" />
+                            <img class="social" src="imagenes/redes/icon-linckedin.png" alt="LinkedIn" />
                         </a>
                     </div>
                     <div>
                         <a href="#">
-                            <img class="social" src="imagenes/icon-twitter.png" alt="Twitter" />
+                            <img class="social" src="imagenes/redes/icon-twitter.png" alt="Twitter" />
                         </a>
                         <a href="#">
-                            <img class="social" src="imagenes/icon-face.png" alt="Facebook" />
+                            <img class="social" src="imagenes/redes/icon-face.png" alt="Facebook" />
                         </a>
                         <a href="#">
-                            <img class="social" src="imagenes/icon-wordpress.png" alt="Wordpress" />
+                            <img class="social" src="imagenes/redes/icon-wordpress.png" alt="Wordpress" />
                         </a>
                     </div>
                 </div>
-
                 <!-- Information -->
                 <div class="grid_8 information fadeInUp">
                     <img class="icon" src="imagenes/icon-otras.png" alt="Otros datos" />
                     <h3>Otros datos</h3>
                     <ul class="information">
-                        <li>Inglés nivel medio</li>
-                        <li>Facilidad para trabajar en equipo</li>
-                        <li class="">Aprendizaje rápido en nuevas tecnologías</li>
-                        <li class="">carnet B1, coche propio</li>
+                        <li><xsl:value-of select="otrosdatos/dato1"/></li>
+                        <li><xsl:value-of select="otrosdatos/dato2"/></li>
+                        <li><xsl:value-of select="otrosdatos/dato3"/></li>
                     </ul>
                 </div>
 
             </section>
         </html>
-
     </xsl:template>
 </xsl:stylesheet>

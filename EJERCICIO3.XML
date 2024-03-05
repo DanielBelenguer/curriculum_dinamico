@@ -56,30 +56,30 @@
         <email>danielbelenguerfernandez@gmail.com</email>
         <socialmedia>
             <red>
-                <iconoredsocial>/imagenes/redes/icon-correo.png</iconoredsocial>
-                <enlaceredsocial>https://www.gmail.com</enlaceredsocial>
-            </red>
-            <red>
-                <iconoredsocial>/imagenes/redes/icon-google.png</iconoredsocial>
+                <iconoredsocial>imagenes/redes/icon-google.png</iconoredsocial>
                 <enlaceredsocial>https://www.google.es</enlaceredsocial>
             </red>
             <red>
-                <iconoredsocial>/imagenes/redes/icon-linckedin.png</iconoredsocial>
+                <iconoredsocial>imagenes/redes/icon-linckedin.png</iconoredsocial>
                 <enlaceredsocial>https://www.linkedin.com/</enlaceredsocial>
             </red>
             <red>
-                <iconoredsocial>/imagenes/redes/icon-twitter.png</iconoredsocial>
+                <iconoredsocial>imagenes/redes/icon-twitter.png</iconoredsocial>
                 <enlaceredsocial>https://twitter.com/</enlaceredsocial>
             </red>
             <red>
-                <iconoredsocial>/imagenes/redes/icon-face.png</iconoredsocial>
+                <iconoredsocial>imagenes/redes/icon-face.png</iconoredsocial>
                 <enlaceredsocial>https://www.facebook.com/</enlaceredsocial>
             </red>
             <red>
-                <iconoredsocial>/imagenes/redes/icon-face.png</iconoredsocial>
-                <enlaceredsocial>https://www.facebook.com/</enlaceredsocial>
+                <iconoredsocial>imagenes/redes/icon-wordpress.png</iconoredsocial>
+                <enlaceredsocial>https://www.wordpress.com/</enlaceredsocial>
             </red>
-
         </socialmedia>
     </contacto>
+    <otrosdatos>
+        <dato1>Facilidad para trabajar en equipo</dato1>
+        <dato2>Aprendizaje rápido en nuevas tecnologías</dato2>
+        <dato3>carnet B1, coche propio</dato3>
+    </otrosdatos>
 </cv>
