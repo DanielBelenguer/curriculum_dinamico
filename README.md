@@ -25,5 +25,3 @@ El proyecto consta de los siguientes archivos:
 
 ## Personalización
 Para personalizar el currículum, se pueden ajustar los estilos CSS, modificar la estructura del XML para agregar más información o cambiar la disposición de los elementos en el archivo XSL.
-
-¡Este es el resumen de la documentación del proyecto del currículum dinámico!
